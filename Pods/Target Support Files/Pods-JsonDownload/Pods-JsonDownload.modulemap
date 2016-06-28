@@ -1,0 +1,6 @@
+framework module Pods_JsonDownload {
+  umbrella header "Pods-JsonDownload-umbrella.h"
+
+  export *
+  module * { export * }
+}
